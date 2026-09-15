@@ -1,0 +1,7 @@
+{
+  "version": "4.8.1",
+  "download_url": "https://YOUR_SERVER.com/dubby/Dubby_AI_Studio_v4.8.1.py",
+  "release_notes_url": "https://YOUR_SERVER.com/dubby/changelog",
+  "mandatory": false,
+  "changelog": "- Added Update → Check for Updates menu\n- Version feed for manager-published features\n- Optional silent check on startup\n- Download newer .py next to the app\n- License and user_settings.json are preserved on update"
+}
